@@ -46,15 +46,19 @@ The backend is connected to a MySQL database for storing products, users, and or
 ---
 <img width="1919" height="999" alt="Screenshot 2025-08-11 132249" src="https://github.com/user-attachments/assets/ad848fda-4cde-426a-988a-ffd6083a0950" />
 <img width="1918" height="997" alt="Screenshot 2025-08-11 132228" src="https://github.com/user-attachments/assets/30654ac1-22e8-4652-b08a-5012b8807f1a" />
+
 - **Footer**
 ---
 <img width="1919" height="993" alt="Screenshot 2025-08-11 132315" src="https://github.com/user-attachments/assets/c0198ba3-6320-471d-a1ae-49912eb82593" />
+
 - **Empty Cart**
 ---
 <img width="1919" height="1017" alt="Screenshot 2025-08-11 132403" src="https://github.com/user-attachments/assets/f3263b54-3a48-450c-849e-1fb0755a7fac" />
+
 - **Items in Cart**
 ---
 <img width="1919" height="1012" alt="Screenshot 2025-08-11 132326" src="https://github.com/user-attachments/assets/6d04ab39-a883-473c-9859-92fb073ee71f" />
+
 - **Removed items in Cart**
 ---
 <img width="1919" height="1012" alt="Screenshot 2025-08-11 132345" src="https://github.com/user-attachments/assets/7f8d702a-c7a8-40df-b875-382b62d0c124" />
